@@ -9,6 +9,6 @@ menubtn.addEventListener("click" , function(){
 });
 
 closebtn.addEventListener("click" , function(){
-    mobhead.style.cssText="margin-top:-582px";
+    mobhead.style.cssText="margin-top:-595px";
     head.style.cssText="display:flex";
  });
