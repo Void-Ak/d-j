@@ -7,7 +7,7 @@ body{
     padding: 0;
     background-color: #171420;
 /*     position: relative; */
-    overflow :hidden;
+    overflow-x :hidden;
 }
 #head{
     display: flex;
